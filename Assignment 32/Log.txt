@@ -1,0 +1,38 @@
+----------------------------------------
+--------------- Log File ---------------
+----------------------------------------
+Execution time : 0.0014939308166503906
+Total number of files deleted : 30
+Demo/hello copy 9.txt
+Demo/hello copy 24.txt
+Demo/hello copy 30.txt
+Demo/hello copy 18.txt
+Demo/hello copy 19.txt
+Demo/hello copy 31.txt
+Demo/hello copy 25.txt
+Demo/hello copy 33.txt
+Demo/hello copy 27.txt
+Demo/hello copy 26.txt
+Demo/hello copy 32.txt
+Demo/hello copy 36.txt
+Demo/hello copy 22.txt
+Demo/hello copy 23.txt
+Demo/hello copy 37.txt
+Demo/hello copy 21.txt
+Demo/hello copy 35.txt
+Demo/hello copy 34.txt
+Demo/hello copy 20.txt
+Demo/hello copy 11.txt
+Demo/hello copy 38.txt
+Demo/hello copy 10.txt
+Demo/hello copy 12.txt
+Demo/hello copy 13.txt
+Demo/hello copy 17.txt
+Demo/hello copy 16.txt
+Demo/hello copy 28.txt
+Demo/hello copy 14.txt
+Demo/hello copy 15.txt
+Demo/hello copy 29.txt
+----------------------------------------
+--------------- Log File ---------------
+----------------------------------------
